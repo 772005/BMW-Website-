@@ -41,14 +41,12 @@ http-server -p 8000
 - Edit `index.html` and `style.css` to change content and styles.
 
 ## Screenshots
-
-
-
-```markdown
 ![Full website](website.png)
-```
 
-You can add multiple images and a short caption for each. If you'd like, I can create a `screenshots/` folder and add placeholder images — tell me whether to proceed.
+## Public Link
+```powershell
+https://bmwstatic.netlify.app/
+```
 
 If you'd like, I can:
 
